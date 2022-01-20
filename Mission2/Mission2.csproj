@@ -21,5 +21,17 @@
     <Folder Include="wwwroot\js\" />
     <Folder Include="wwwroot\lib\jquery\" />
     <Folder Include="wwwroot\lib\bootstrap\" />
+    <Folder Include="Views\" />
+    <Folder Include="Views\view\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Models\" />
+    <Folder Include="Views\Shared\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Views\" />
+    <None Remove="Views\view1\" />
+    <None Remove="Controllers\" />
+    <None Remove="Models\" />
+    <None Remove="Views\Shared\" />
   </ItemGroup>
 </Project>

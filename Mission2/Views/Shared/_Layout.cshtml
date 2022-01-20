@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"]</title>
+    <link rel="shortcut icon" href="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-sun-weather-justicon-lineal-color-justicon-1.png" type="image/x-icon">
+    <link href="~/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/css/default.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="text-center">
+
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="nav-link" asp-controller="view" asp-action="Index">Home</a>
+            <a class="nav-link" asp-controller="view" asp-action="Grades">Calculate Grades</a>
+        </nav>
+        <br />
+
+        @RenderBody()
+    </div>
+
+    <script src="~/lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="~/lib/jquery/jquery-3.6.0.min.js"></script>
+    <script src="~/js/grades.js"></script>
+
+</body>
+</html>

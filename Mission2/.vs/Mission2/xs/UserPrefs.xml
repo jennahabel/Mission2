@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{0FBC947D-4148-4822-871E-6561C7129865}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="wwwroot/css/default.css">
+    <Files>
+      <File FileName="Program.cs" Line="16" Column="1" />
+      <File FileName="Controllers/view1Controller.cs" Line="6" Column="7" />
+      <File FileName="Startup.cs" Line="43" Column="10" />
+      <File FileName="Mission2.csproj" Line="1" Column="1" />
+      <File FileName="Views/view1/Index.cshtml" Line="34" Column="1" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="20" Column="1" />
+      <File FileName="Views/_ViewStart.cshtml" Line="2" Column="24" />
+      <File FileName="Views/view/Grades.cshtml" Line="34" Column="5" />
+      <File FileName="Views/_ViewImports.cshtml" Line="4" Column="1" />
+      <File FileName="Models/GradesModel.cs" Line="26" Column="6" />
+      <File FileName="wwwroot/js/grades.js" Line="5" Column="26" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="wwwroot/css/default.css" Line="18" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mission2" expanded="True">
+            <Node name="Mission2" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="view" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="default.css" selected="True" />
+                </Node>
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jennaconnell/Documents/GitHub/Mission2/Mission2/wwwroot/js/grades.js" relfile="wwwroot/js/grades.js" line="45" column="1" />
+      <Breakpoint file="/Users/jennaconnell/Documents/GitHub/Mission2/Mission2/wwwroot/js/grades.js" relfile="wwwroot/js/grades.js" line="2" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Mission2 PreferredExecutionTarget="/Applications/Brave Browser.app" />
+</Properties>
